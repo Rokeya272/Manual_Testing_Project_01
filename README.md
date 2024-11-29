@@ -1,7 +1,7 @@
 # Manual-Testing
 This repository contains manual test cases and documentation for testing a web-based e-commerce application. This project aims to ensure the application functions correctly and meets the user's requirements.
 
-## Manual Testing on AppleGadgets_App
+## Manual Testing on AppleGadgets_Application
 
 ## Overview
 This repository contains the documentation and artifacts related to the manual testing of the "AppleGadgets" project. The project encompasses various testing documents, including test plans, scenarios, test cases, bug reports, etc.
